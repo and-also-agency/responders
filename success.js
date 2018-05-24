@@ -1,1 +1,1 @@
-{"result":"success"}
+return "callback({ 'result' : 'success' })"
