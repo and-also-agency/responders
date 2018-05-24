@@ -1,3 +1,4 @@
 (function() {
-return "callback({ 'result' : 'success' })"
+return "callback({ 'result' : 'success' })";
+console.log("hello");
 }())
