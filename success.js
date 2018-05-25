@@ -1,4 +1,6 @@
-// (function() {
-return "callback({ 'result' : 'success' })";
-console.log("hello");
-// }())
+function response(data) {
+	return data;
+	console.log("hello");
+}
+
+window.onload = response(callback({ 'result' : 'success' }));
