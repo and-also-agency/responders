@@ -1,5 +1,3 @@
-function callback(){ 
+(function () {
 return "callback({ 'result' : 'success' })";
-}
-
-callback();
+}());
