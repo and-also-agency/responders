@@ -1,3 +1,3 @@
 (function () {
-({ 'result' : 'success' })";
+{ 'result' : 'success' };
 }());
