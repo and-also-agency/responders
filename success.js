@@ -1,3 +1,3 @@
 (function () {
-return "callback({ 'result' : 'success' })";
+({ 'result' : 'success' })";
 }());
